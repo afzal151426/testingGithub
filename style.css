@@ -4,3 +4,9 @@
   height: 500px;
   margin: 20px auto;
 }
+
+div {
+  border-radius: 10px;
+  background: cyan;
+  color: white;
+}
